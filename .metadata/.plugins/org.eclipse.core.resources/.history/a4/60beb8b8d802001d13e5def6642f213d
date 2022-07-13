@@ -1,0 +1,5 @@
+package br.com.codaz.dsmeta.config;
+
+public class SecurityConfig {
+
+}
