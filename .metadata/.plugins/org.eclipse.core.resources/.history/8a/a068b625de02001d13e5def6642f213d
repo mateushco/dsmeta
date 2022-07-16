@@ -1,0 +1,9 @@
+package br.com.codaz.dsmeta.services;
+
+public class SaleService {
+
+	public List<Sale> findSales() {
+		
+	}
+	
+}
